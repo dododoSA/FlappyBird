@@ -1,0 +1,2 @@
+﻿  Main.cpp
+C:\Users\akihi\Documents\Games\FlappyBird\Main.cpp(1,10): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
